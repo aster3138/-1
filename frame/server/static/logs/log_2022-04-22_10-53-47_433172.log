@@ -1,0 +1,2 @@
+2022-04-22 10:53:49.804 | ERROR    | app:handle_before:45 - path: / error: 未授权
+2022-04-22 10:53:49.987 | ERROR    | app:handle_before:45 - path: /favicon.ico error: 未授权
